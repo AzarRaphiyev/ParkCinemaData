@@ -1,4 +1,19 @@
 {
+    "users":[
+        {
+            "id": 1,
+            "firstName": "Azer",
+            "lastName": "Rafiyev",
+            "email": "raphiyev@gmail.com",
+            "password": "admin123",
+            "phone": "+994501234567",
+            "role": "super_admin",
+            "createdAt": "2025-01-01T00:00:00.000Z",
+            "isActive": true,
+            "lastLogin":null
+    }
+
+    ]
     "movies": [
         {
             "id": "6809f2e687f15d5253eeea86",
